@@ -1,10 +1,7 @@
 
-
-Here’s a **professional and clear GitHub project description** for your MERN Auth project, highlighting all key features including secure authentication, Google and Apple OAuth, and best practices:
-
 ---
 
-## 🔐 MERN-Auth – Secure Authentication System (Google & Apple OAuth)
+## 🔐 MERN-Auth – Secure Authentication System (Google OAuth & Apple)
 
 A fully secure and scalable authentication system built using the **MERN Stack (MongoDB, Express, React, Node.js)**. This project implements best practices for modern authentication workflows, including:
 
@@ -37,7 +34,7 @@ A fully secure and scalable authentication system built using the **MERN Stack (
 
 1. Clone the repo  
    ```bash
-   git clone https://github.com/your-username/mern-auth.git
+   git clone https://github.com/your-username/Mern-AuthWithOauth.git
    cd mern-auth
    ```
 
@@ -77,9 +74,12 @@ A fully secure and scalable authentication system built using the **MERN Stack (
 ---
 
 ### 📸 Screenshots
-
-> Add screenshots/gifs of the login UI, Google login, and Apple login for better engagement.
-
+Signup
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f3744ce9-7f58-419a-a19a-b00a80cfe848" />
+Login
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b0b831a1-c9a2-4b0e-aede-06843892d5cf" />
+Home page
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f715cf7f-1921-4e81-853f-82a00fa5f60d" />
 ---
 
 ### 🤝 Contributing
@@ -93,5 +93,4 @@ Feel free to open issues or submit pull requests if you'd like to improve the pr
 This project is licensed under the MIT License.
 
 ---
-
-Let me know if you want a `README.md` file generated with formatting or want to add demo video links, deployment URLs, or badges.
+justinanurag0.2❤️
